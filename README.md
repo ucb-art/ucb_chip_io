@@ -1,5 +1,5 @@
 # ucb_chip_io
-Modification of efabless' `chip_io` padframe with a library of pre-configured IO cells instead of the [https://github.com/efabless/caravel](caravel) harness.
+Modification of efabless' `chip_io` padframe with a library of pre-configured IO cells instead of the [caravel](https://github.com/efabless/caravel) harness.
 
 ## Library Info
 
